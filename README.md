@@ -1,6 +1,6 @@
 # P1_2_Monografia
 
-##P1
+
 [herbert w franke](Herber w frankie.pdf) 
 
 ## P2_Autorretrato
