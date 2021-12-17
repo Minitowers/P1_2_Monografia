@@ -6,5 +6,5 @@
 # P2 _Autorretrato
 [marina](marina_torrecillas_autorretrato/marina_torrecillas_autorretrato.pde)
 
-# P3_Spark AR
+# P3_Investigación Objeto 3D
 
