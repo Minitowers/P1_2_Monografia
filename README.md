@@ -1,4 +1,4 @@
-# P1 _2_Monografia
+# P1 _Monografia
 
 
 [herbert w franke](Herber w frankie.pdf) 
@@ -6,5 +6,5 @@
 # P2 _Autorretrato
 [marina](marina_torrecillas_autorretrato/marina_torrecillas_autorretrato.pde)
 
-# P3 _Spark AR
+# P3_Spark AR
 
