@@ -8,4 +8,5 @@
 
 # P3_Investigación Objeto 3D
 [Objetos3D_Marta_Irene_Marina.pdf](Objetos3D_Marta_Irene_Marina.pdf)
+[presentacion magda.pdf](presentacion magda.pdf)
 
