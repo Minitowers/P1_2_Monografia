@@ -1,6 +1,4 @@
 # P1 _Monografia
-
-
 [Herberw frankie](Herberw frankie.pdf)
 
 # P2 _Autorretrato
