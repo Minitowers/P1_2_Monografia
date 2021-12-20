@@ -1,5 +1,5 @@
 # P1 _Monografia
-[Herberw frankie](Herberw frankie.pdf)
+[Herberw frankie](https://github.com/Minitowers/P1_2_Monografia/blob/master/Herber%20w%20frankie.pdf)
 
 # P2 _Autorretrato
 [marina](marina_torrecillas_autorretrato/marina_torrecillas_autorretrato.pde)
